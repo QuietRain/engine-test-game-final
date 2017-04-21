@@ -1,0 +1,46 @@
+{
+	"name": "stand",
+	"length": 8,
+	"frames": [
+		{
+			"image": "stand1.png",
+			"width": 82,
+			"height": 118
+		},
+		{
+			"image": "stand2.png",
+			"width": 82,
+			"height": 118
+		},
+		{
+			"image": "stand3.png",
+			"width": 82,
+			"height": 118
+		},
+		{
+			"image": "stand4.png",
+			"width": 82,
+			"height": 118
+		},
+		{
+			"image": "stand5.png",
+			"width": 82,
+			"height": 118
+		},
+		{
+			"image": "stand6.png",
+			"width": 82,
+			"height": 118
+		},
+		{
+			"image": "stand7.png",
+			"width": 82,
+			"height": 118
+		},
+		{
+			"image": "stand8.png",
+			"width": 82,
+			"height": 118
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"name": "Fight",
+	"length": 8,
+	"frames": [
+		{
+			"image": "fight1.png",
+			"width": 128,
+			"height": 128
+		},
+		{
+			"image": "fight2.png",
+			"width": 128,
+			"height": 128
+		},
+		{
+			"image": "fight3.png",
+			"width": 128,
+			"height": 128
+		},
+		{
+			"image": "fight4.png",
+			"width": 128,
+			"height": 128
+		},
+		{
+			"image": "fight5.png",
+			"width": 128,
+			"height": 128
+		},
+		{
+			"image": "fight6.png",
+			"width": 128,
+			"height": 128
+		},
+		{
+			"image": "fight7.png",
+			"width": 128,
+			"height": 128
+		},
+		{
+			"image": "fight8.png",
+			"width": 128,
+			"height": 128
+		}
+	]
+}

@@ -1,0 +1,71 @@
+{
+    "name": "assets",
+    "length": 8,
+    "frames": [
+        {
+            "image": "_monster.png",
+            "width": 200,
+            "height": 193
+        },
+        {
+            "image": "box.png",
+            "width": 100,
+            "height": 88
+        },
+        {
+            "image": "Button.png",
+            "width": 100,
+            "height": 100
+        },
+        {
+            "image": "Ground.png",
+            "width": 100,
+            "height": 100
+        },
+        {
+            "image": "Npc1.png",
+            "width": 132,
+            "height": 195
+        },
+        {
+            "image": "Npc2.png",
+            "width": 132,
+            "height": 209
+        },
+        {
+            "image": "tanhao.png",
+            "width": 132,
+            "height": 131
+        },
+        {
+            "image": "Wall.png",
+            "width": 100,
+            "height": 100
+        },
+        {
+            "image": "wenhao.png",
+            "width": 132,
+            "height": 131
+        },
+        {
+            "image": "wenhao2.png",
+            "width": 132,
+            "height": 131
+        },
+        {
+            "image": "jewel.png",
+            "width": 50,
+            "height": 54
+        },
+        {
+            "image": "shuxing.jpg",
+            "width": 483,
+            "height": 560
+        },
+        {
+            "image": "dao.png",
+            "width": 483,
+            "height": 560
+        }
+    ]
+}

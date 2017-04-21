@@ -1,0 +1,46 @@
+{
+	"name": "MoveLight",
+	"length": 8,
+	"frames": [
+		{
+			"image": "moveL1.png",
+			"width": 108,
+			"height": 114
+		},
+		{
+			"image": "moveL2.png",
+			"width": 108,
+			"height": 114
+		},
+		{
+			"image": "moveL3.png",
+			"width": 108,
+			"height": 114
+		},
+		{
+			"image": "moveL4.png",
+			"width": 108,
+			"height": 114
+		},
+		{
+			"image": "moveL5.png",
+			"width": 108,
+			"height": 114
+		},
+		{
+			"image": "moveL6.png",
+			"width": 108,
+			"height": 114
+		},
+		{
+			"image": "moveL7.png",
+			"width": 108,
+			"height": 114
+		},
+		{
+			"image": "moveL8.png",
+			"width": 108,
+			"height": 114
+		}
+	]
+}

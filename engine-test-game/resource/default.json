@@ -1,0 +1,344 @@
+{
+    "resource": [
+        {
+            "name": "stand1.png",
+            "type": "image",
+            "url": "resource/stand/stand1.png",
+            "width": 82,
+            "height": 118
+        },
+        {
+            "name": "stand2.png",
+            "type": "image",
+            "url": "resource/stand/stand2.png",
+            "width": 82,
+            "height": 118
+        },
+        {
+            "name": "stand3.png",
+            "type": "image",
+            "url": "resource/stand/stand3.png",
+            "width": 82,
+            "height": 118
+        },
+        {
+            "name": "stand4.png",
+            "type": "image",
+            "url": "resource/stand/stand4.png",
+            "width": 82,
+            "height": 118
+        },
+        {
+            "name": "stand5.png",
+            "type": "image",
+            "url": "resource/stand/stand5.png",
+            "width": 82,
+            "height": 118
+        },
+        {
+            "name": "stand6.png",
+            "type": "image",
+            "url": "resource/stand/stand6.png",
+            "width": 82,
+            "height": 118
+        },
+        {
+            "name": "stand7.png",
+            "type": "image",
+            "url": "resource/stand/stand7.png",
+            "width": 82,
+            "height": 118
+        },
+        {
+            "name": "stand8.png",
+            "type": "image",
+            "url": "resource/stand/stand8.png",
+            "width": 82,
+            "height": 118
+        },
+        {
+            "name": "moveR1.png",
+            "type": "image",
+            "url": "resource/moveR/moveR1.png",
+            "width": 108,
+            "height": 114
+        },
+        {
+            "name": "moveR2.png",
+            "type": "image",
+            "url": "resource/moveR/moveR2.png",
+            "width": 108,
+            "height": 114
+        },
+        {
+            "name": "moveR3.png",
+            "type": "image",
+            "url": "resource/moveR/moveR3.png",
+            "width": 108,
+            "height": 114
+        },
+        {
+            "name": "moveR4.png",
+            "type": "image",
+            "url": "resource/moveR/moveR4.png",
+            "width": 108,
+            "height": 114
+        },
+        {
+            "name": "moveR5.png",
+            "type": "image",
+            "url": "resource/moveR/moveR5.png",
+            "width": 108,
+            "height": 114
+        },
+        {
+            "name": "moveR6.png",
+            "type": "image",
+            "url": "resource/moveR/moveR6.png",
+            "width": 108,
+            "height": 114
+        },
+        {
+            "name": "moveR7.png",
+            "type": "image",
+            "url": "resource/moveR/moveR7.png",
+            "width": 108,
+            "height": 114
+        },
+        {
+            "name": "moveR8.png",
+            "type": "image",
+            "url": "resource/moveR/moveR8.png",
+            "width": 108,
+            "height": 114
+        },
+        {
+            "name": "moveL1.png",
+            "type": "image",
+            "url": "resource/moveL/moveL1.png",
+            "width": 108,
+            "height": 114
+        },
+        {
+            "name": "moveL2.png",
+            "type": "image",
+            "url": "resource/moveL/moveL2.png",
+            "width": 108,
+            "height": 114
+        },
+        {
+            "name": "moveL3.png",
+            "type": "image",
+            "url": "resource/moveL/moveL3.png",
+            "width": 108,
+            "height": 114
+        },
+        {
+            "name": "moveL4.png",
+            "type": "image",
+            "url": "resource/moveL/moveL4.png",
+            "width": 108,
+            "height": 114
+        },
+        {
+            "name": "moveL5.png",
+            "type": "image",
+            "url": "resource/moveL/moveL5.png",
+            "width": 108,
+            "height": 114
+        },
+        {
+            "name": "moveL6.png",
+            "type": "image",
+            "url": "resource/moveL/moveL6.png",
+            "width": 108,
+            "height": 114
+        },
+        {
+            "name": "moveL7.png",
+            "type": "image",
+            "url": "resource/moveL/moveL7.png",
+            "width": 108,
+            "height": 114
+        },
+        {
+            "name": "moveL8.png",
+            "type": "image",
+            "url": "resource/moveL/moveL8.png",
+            "width": 108,
+            "height": 114
+        },
+        {
+            "name": "fight1.png",
+            "type": "image",
+            "url": "resource/fight/fight1.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "name": "fight2.png",
+            "type": "image",
+            "url": "resource/fight/fight2.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "name": "fight3.png",
+            "type": "image",
+            "url": "resource/fight/fight3.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "name": "fight4.png",
+            "type": "image",
+            "url": "resource/fight/fight4.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "name": "fight5.png",
+            "type": "image",
+            "url": "resource/fight/fight5.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "name": "fight6.png",
+            "type": "image",
+            "url": "resource/fight/fight6.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "name": "fight7.png",
+            "type": "image",
+            "url": "resource/fight/fight7.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "name": "fight8.png",
+            "type": "image",
+            "url": "resource/fight/fight8.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "name": "_monster.png",
+            "type": "image",
+            "url": "resource/assets/_monster.png",
+            "width": 200,
+            "height": 193
+        },
+        {
+            "name": "box.png",
+            "type": "image",
+            "url": "resource/assets/box.png",
+            "width": 100,
+            "height": 88
+        },
+        {
+            "name": "Button.png",
+            "type": "image",
+            "url": "resource/assets/Button.png",
+            "width": 100,
+            "height": 100
+        },
+        {
+            "name": "Ground.png",
+            "type": "image",
+            "url": "resource/assets/Ground.png",
+            "width": 100,
+            "height": 100
+        },
+        {
+            "name": "Npc1.png",
+            "type": "image",
+            "url": "resource/assets/Npc1.png",
+            "width": 132,
+            "height": 195
+        },
+        {
+            "name": "Npc2.png",
+            "type": "image",
+            "url": "resource/assets/Npc2.png",
+            "width": 132,
+            "height": 209
+        },
+        {
+            "name": "tanhao.png",
+            "type": "image",
+            "url": "resource/assets/tanhao.png",
+            "width": 132,
+            "height": 131
+        },
+        {
+            "name": "Wall.png",
+            "type": "image",
+            "url": "resource/assets/Wall.png",
+            "width": 100,
+            "height": 100
+        },
+        {
+            "name": "wenhao.png",
+            "type": "image",
+            "url": "resource/assets/wenhao.png",
+            "width": 132,
+            "height": 131
+        },
+        {
+            "name": "wenhao2.png",
+            "type": "image",
+            "url": "resource/assets/wenhao2.png",
+            "width": 132,
+            "height": 131
+        },
+        {
+            "name": "jewel.png",
+            "type": "image",
+            "url": "resource/assets/jewel.png",
+            "width": 50,
+            "height": 54
+        },
+        {
+            "name": "shuxing.jpg",
+            "type": "image",
+            "url": "resource/assets/shuxing.jpg",
+            "width": 483,
+            "height": 560
+        },
+        {
+            "name": "dao.png",
+            "type": "image",
+            "url": "resource/assets/dao.png",
+            "width": 483,
+            "height": 560
+        },
+        {
+            "name": "fightData.json",
+            "type": "json",
+            "url": "resource/fight/fightData.json"
+        },
+        {
+            "name": "moveLData.json",
+            "type": "json",
+            "url": "resource/moveL/moveLData.json"
+        },
+        {
+            "name": "moveRData.json",
+            "type": "json",
+            "url": "resource/moveR/moveRData.json"
+        },
+        {
+            "name": "standData.json",
+            "type": "json",
+            "url": "resource/stand/standData.json"
+        },
+        {
+            "name": "assets.json",
+            "type": "json",
+            "url": "resource/assets/assets.json"
+        }
+    ]
+}

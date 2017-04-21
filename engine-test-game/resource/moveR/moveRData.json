@@ -1,0 +1,46 @@
+{
+    "name": "MoveRight",
+    "length": 8,
+    "frames": [
+        {
+            "image": "moveR1.png",
+            "width": 108,
+            "height": 114
+        },
+        {
+            "image": "moveR2.png",
+            "width": 108,
+            "height": 114
+        },
+        {
+            "image": "moveR3.png",
+            "width": 108,
+            "height": 114
+        },
+        {
+            "image": "moveR4.png",
+            "width": 108,
+            "height": 114
+        },
+        {
+            "image": "moveR5.png",
+            "width": 108,
+            "height": 114
+        },
+        {
+            "image": "moveR6.png",
+            "width": 108,
+            "height": 114
+        },
+        {
+            "image": "moveR7.png",
+            "width": 108,
+            "height": 114
+        },
+        {
+            "image": "moveR8.png",
+            "width": 108,
+            "height": 114
+        }
+    ]
+}
